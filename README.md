@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Backend Projects.
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://pratiksontakke.github.io/)**
 - ⚡ Fun fact: I spend almost 6 hours listening to songs every day.
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me <b>( pratikass488@gmail.com )</b> : Check social links below.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-sontakke/) [![Twitter](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPratikSontakke_)](https://twitter.com/PratikSontakke_) ![Gmail](https://img.shields.io/badge/pratikass488@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
