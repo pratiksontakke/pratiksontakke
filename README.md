@@ -47,8 +47,6 @@
 
 ![pratiksontakke.com](./assets/readme_img/03.png)
 
-![pratiksontakke.com](./assets/readme_img/05.png)
-
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 <p align='center'>
