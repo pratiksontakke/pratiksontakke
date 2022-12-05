@@ -9,10 +9,11 @@
 - 👯 I’m looking to collaborate on Backend Projects.
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://pratiksontakke.github.io/)**
 - ⚡ Fun fact: I spend almost 6 hours listening to songs every day.
-- 📫 How to reach me <b>( pratikass488@gmail.com )</b> : Check social links below.
+- 📫 How to reach me <b>( pratikass488@gmail.com )</b>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-sontakke/) [![Twitter](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPratikSontakke_)](https://twitter.com/PratikSontakke_) ![Gmail](https://img.shields.io/badge/pratikass488@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+## 🌐 Connect with me :
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://pratiksontakke.github.io/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikass488@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-sontakke/) [![Twitter](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FPratikSontakke_)](https://twitter.com/PratikSontakke_) 
+
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codepur_ka_superhero)  -->
 
 ## 💻 Tech Stack
