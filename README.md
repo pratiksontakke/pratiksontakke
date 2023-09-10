@@ -5,7 +5,7 @@
 
 # 💫 About Me : 
 - 🔭 I’m currently building [One9 API](https://github.com/pratiksontakke/one9).
-- 🌱 I’m currently learning more about Java.
+- 🌱 I’m currently learning more about React.
 - 👯 I’m looking to collaborate on Backend Projects.
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://pratiksontakke.github.io/)**
 - ⚡ Fun fact: I spend almost 6 hours listening to songs every day.
