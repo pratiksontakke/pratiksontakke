@@ -16,7 +16,7 @@ I am currently honing my skills in **Cloud Engineering** (AWS, Azure) and **DevO
 ---
 
 ### 🔗 **Connect with Me**:
-- **[Linktree](https://67668635218ce2ca05f9bc5a--timely-caramel-6cc354.netlify.app/)** - Access all my professional links in one place.
+- **[Linktree](https://timely-caramel-6cc354.netlify.app/)** - Access all my professional links in one place.
 
 ---
 
@@ -35,4 +35,4 @@ I’m always open to collaborating on DevOps and Cloud-related projects, sharing
 
 ### 📫 **How to Reach Me**:  
 - **Email**: [pratikdevcloud@gmail.com](mailto:pratikdevcloud@gmail.com?subject=Let’s%20Connect%20)
-- **Linktree**: [Linktree](https://67668635218ce2ca05f9bc5a--timely-caramel-6cc354.netlify.app/)
+- **Linktree**: [Linktree](https://timely-caramel-6cc354.netlify.app/)
