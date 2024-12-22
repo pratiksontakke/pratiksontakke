@@ -1,4 +1,4 @@
-[# Pratik Sontakke - Cloud & DevOps Engineer
+# Pratik Sontakke - Cloud & DevOps Engineer
 
 Welcome to my GitHub profile! 👋 I’m Pratik Sontakke, a **Cloud & DevOps Engineer** with a passion for building scalable, efficient, and automated infrastructure solutions. I specialize in cloud technologies, containerization, orchestration, and CI/CD pipelines to drive high-performance systems.
 
