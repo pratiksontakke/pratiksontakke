@@ -1,4 +1,4 @@
-# Pratik Sontakke - Cloud & DevOps Engineer
+[# Pratik Sontakke - Cloud & DevOps Engineer
 
 Welcome to my GitHub profile! 👋 I’m Pratik Sontakke, a **Cloud & DevOps Engineer** with a passion for building scalable, efficient, and automated infrastructure solutions. I specialize in cloud technologies, containerization, orchestration, and CI/CD pipelines to drive high-performance systems.
 
@@ -34,5 +34,5 @@ I’m always open to collaborating on DevOps and Cloud-related projects, sharing
 ---
 
 ### 📫 **How to Reach Me**:  
-- **Email**: pratikdevcloud@gmail.com 
+- **Email**: [pratikdevcloud@gmail.com](mailto:pratikdevcloud@gmail.com?subject=Let’s%20Connect%20)
 - **Linktree**: [Linktree](https://67668635218ce2ca05f9bc5a--timely-caramel-6cc354.netlify.app/)
