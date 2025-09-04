@@ -40,5 +40,5 @@ I’m always open to collaborating on projects that sit at the intersection of *
 - **Email**: [pratikass488@gmail.com](mailto:pratikass488@gmail.com?subject=GitHub%20-%20Let’s%20Connect)
 
 ### 📫 **How to Reach Me**:  
-- **Email**: [pratikass488@gmail.com@gmail.com](mailto:pratikass488@gmail.com?subject=Let’s%20Connect%20)
+- **Email**: [pratikass488@gmail.com](mailto:pratikass488@gmail.com?subject=Let’s%20Connect%20)
 - **website**: [www.pratiksontakke.com](https://www.pratiksontakke.com/)
